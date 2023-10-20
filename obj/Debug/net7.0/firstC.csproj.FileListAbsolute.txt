@@ -1,0 +1,14 @@
+/Users/emillau/Desktop/Desktop/Coding/firstC/obj/Debug/net7.0/firstC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emillau/Desktop/Desktop/Coding/firstC/obj/Debug/net7.0/firstC.AssemblyInfoInputs.cache
+/Users/emillau/Desktop/Desktop/Coding/firstC/obj/Debug/net7.0/firstC.AssemblyInfo.cs
+/Users/emillau/Desktop/Desktop/Coding/firstC/obj/Debug/net7.0/firstC.csproj.CoreCompileInputs.cache
+/Users/emillau/Desktop/Desktop/Coding/firstC/bin/Debug/net7.0/firstC
+/Users/emillau/Desktop/Desktop/Coding/firstC/bin/Debug/net7.0/firstC.deps.json
+/Users/emillau/Desktop/Desktop/Coding/firstC/bin/Debug/net7.0/firstC.runtimeconfig.json
+/Users/emillau/Desktop/Desktop/Coding/firstC/bin/Debug/net7.0/firstC.dll
+/Users/emillau/Desktop/Desktop/Coding/firstC/bin/Debug/net7.0/firstC.pdb
+/Users/emillau/Desktop/Desktop/Coding/firstC/obj/Debug/net7.0/firstC.dll
+/Users/emillau/Desktop/Desktop/Coding/firstC/obj/Debug/net7.0/refint/firstC.dll
+/Users/emillau/Desktop/Desktop/Coding/firstC/obj/Debug/net7.0/firstC.pdb
+/Users/emillau/Desktop/Desktop/Coding/firstC/obj/Debug/net7.0/firstC.genruntimeconfig.cache
+/Users/emillau/Desktop/Desktop/Coding/firstC/obj/Debug/net7.0/ref/firstC.dll
